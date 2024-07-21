@@ -33,6 +33,7 @@ This mod combines Overflow Animations (V1) with Sk1er's Old Animations code into
 <details>
   <summary>Additional features from 1.7</summary>
 
+* Old functional block+dig (Experimental)
 * Old 2D/Fast Dropped Items
 * Accurate First/Third Person Item Positions
 * Old Held Item Lighting 
